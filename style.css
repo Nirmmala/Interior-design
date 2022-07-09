@@ -1,0 +1,189 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.header {
+    position: fixed;
+    padding-top: 100px;
+    color: white;
+    padding-left: 20px;
+    
+    
+}
+.header a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    /* background-color: black; */
+    margin-top: 5px;
+}
+.header a:hover{
+    background-color: white;
+    color: tomato;
+}
+
+.nav-head {
+    padding-top: 70px;
+    padding-left: 10px;
+    padding-bottom: 70px;
+    /* padding-left: 20px; */
+    
+}
+
+
+.distnce {
+    width: 300px;
+    background-color: tomato;
+}
+
+.first-show {
+    margin-top: 80px;
+    font-family: "Poppins", serif;
+}
+
+.first-show .head {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.first-show .sub-head {
+    font-size: 40px;
+    color: tomato;
+    margin-bottom: 20px;
+}
+
+/* .first-show .line{
+    width:50px;
+    border-radius:5px;
+    height: 10px;
+    color: red;
+} */
+.abc {
+    width: 50px;
+    height: 10px;
+    background-color: red;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.image1 {
+    float: left;
+}
+
+.show-imges {
+    width: 500px;
+    ;
+    /* height: 300px; */
+    opacity: 0.7;
+}
+
+.show-imges:hover {
+    opacity: 1;
+}
+
+.package-table {
+    background-color: whitesmoke;
+    text-align: center;
+
+}
+
+.package-table th {
+    padding: 30px;
+    font-size: larger;
+    background-color: rgb(68, 67, 67);
+    color: white;
+}
+
+.package-table td {
+    padding: 15px;
+    font-weight: 500;
+}
+
+.package-table button {
+    background-color: white;
+    color: black;
+    border-style: none;
+    padding: 10px 20px;
+}
+
+.package-table button:hover {
+    background-color: black;
+    color: white;
+}
+
+
+.package-table1 {
+    background-color: whitesmoke;
+    text-align: center;
+
+}
+
+.package-table1 th {
+    padding: 30px;
+    font-size: larger;
+    background-color: tomato;
+    color: white;
+}
+
+.package-table1 td {
+    padding: 15px;
+    font-weight: 500;
+}
+
+.package-table1 button {
+    background-color: tomato;
+    color: white;
+    border-style: none;
+    padding: 10px 20px;
+}
+
+.package-table1 button:hover {
+    background-color: black;
+    color: white;
+}
+
+.details-block {
+    width: 100%;
+    height: 50px;
+    border: 1px solid gray;
+}
+
+
+.input-border {
+    width: 100%;
+    border: 1px solid gray;
+    height: 40px;
+}
+
+.input-border input:hover {
+    border: 1px solid black;
+}
+
+.msg {
+    color: white;
+    background-color: tomato;
+    border: 0px;
+    width: 100%;
+    padding: 10px;
+    font-size: larger;
+    font-family: "Poppins", sans-serif;
+}
+
+
+.footer {
+    background-color: whitesmoke;
+    height: 100px;
+    text-align: right;
+    line-height: 100px;
+}
+
+.footer a:hover {
+    color: black;
+}
